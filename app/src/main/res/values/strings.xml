@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_referencia">Referencia</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_confirmpassword">Confirme Contraseña</string>
+    <string name="textoboton_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?</string>
+    <string name="create_here">Crea una aqui</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_user">Usuario</string>
+    <string name="textoboton_create">UNETE</string>
+    <string name="toolbar_tittle">Crear Cuenta</string>
+    <string name="usernamecard">Gunvolt</string>
+    <string name="firstwordcard">hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="cantidad_gusta">12 Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+    <string name="title_detail">GUILT SEQUENCE</string>
+    <string name="lorem">\"qui dolorem ipsum, quia dolor sit amet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem\".</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+</resources>

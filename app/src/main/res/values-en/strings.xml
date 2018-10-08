@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_referencia">Reference</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirmpassword">Confirm Password</string>
+    <string name="hint_username">Username</string>
+    <string name="textoboton_login">Login</string>
+    <string name="dont_have_account">¿Dont have an acoount?</string>
+    <string name="create_here">Create here</string>
+    <string name="hint_correo">Email</string>
+    <string name="hint_user">User</string>
+    <string name="textoboton_create">UNETE</string>
+    <string name="toolbar_tittle">Create Account</string>
+    <string name="usernamecard">Gunvolt</string>
+    <string name="firstwordcard">hace</string>
+    <string name="timecard_card">4 days</string>
+    <string name="cantidad_gusta">12 likes</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Me</string>
+    <string name="title_detail">GUILT SEQUENCE</string>
+    <string name="lorem">\"qui dolorem ipsum, quia dolor sit amet consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem\".</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/picture_card"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/cardviewpicture"
+    cardview:cardCornerRadius="@dimen/cardviewradius"
+    android:layout_marginBottom="@dimen/activity_vertical_margin">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/picturecard"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/cardviewpicture"
+            android:background="@drawable/gunvolt1"
+            android:scaleType="centerCrop"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="top"
+            android:paddingLeft="@dimen/activity_vertical_margin"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:background="@color/colorcardview"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/usernamecardview"
+                android:text="@string/usernamecard"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/textsizecard"
+                >
+            </TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/firstword"
+                    android:text="@string/firstwordcard"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/textfirstword"
+                    >
+                </TextView>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/timecard"
+                    android:text="@string/timecard_card"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/textfirstword"
+                    android:layout_marginLeft="@dimen/marginleft_firstword"
+                    >
+                </TextView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/like_margin_topcard"
+                >
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/checkbox_cardview"
+                    android:button="@drawable/checkbox_selector"
+
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/cantidad_gusta"
+                    android:text="@string/cantidad_gusta"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/textfirstword"
+                    
+                    >
+                </TextView>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </FrameLayout>
+</android.support.v7.widget.CardView>

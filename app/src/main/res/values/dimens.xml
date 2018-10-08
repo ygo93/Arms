@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="editext_login">20sp</dimen>
+    <dimen name="horizontal_login">32dp</dimen>
+    <dimen name="donthaveaccount">16sp</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <dimen name="editext_margin_createaccount">10dp</dimen>
+    <dimen name="cardviewpicture">200dp</dimen>
+    <dimen name="cardviewradius">4dp</dimen>
+    <dimen name="textsizecard">25sp</dimen>
+    <dimen name="textfirstword">15sp</dimen>
+    <dimen name="marginleft_firstword">5dp</dimen>
+    <dimen name="like_margin_topcard">10dp</dimen>
+    <dimen name="bottombar">70dp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="textsizeusernamedetail">25sp</dimen>
+    <dimen name="textsizelikenumberdetail">15sp</dimen>
+    <dimen name="secondword">7dp</dimen>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="paddingtop_titledetail">20dp</dimen>
+</resources>
